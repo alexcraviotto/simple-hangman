@@ -16,4 +16,4 @@
 ------------
 
 ### Compatibility
-It is only compatible with Windows as it uses its own system commands(cls). However you can run it on linux by changing `system("cls)` to `system("clear")` in the code.
+It is only compatible with Windows as it uses its own system commands(cls). However you can run it on linux by changing `system("cls")` to `system("clear")` in the code.
